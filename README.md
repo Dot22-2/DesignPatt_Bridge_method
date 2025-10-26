@@ -40,5 +40,3 @@ for (const auto& user : users) {
 // Output:
 // [AdminUser] Platform: Windows
 // [GuestUser] Platform: Linux
-admin->render(); // Admin on Windows
-guest->render(); // Guest on Linux
